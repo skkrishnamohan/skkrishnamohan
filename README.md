@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I'm a seasoned **DevOps Consultant** with 13+ years of experience in building scalable, secure, and automated infrastructure using **Azure**, **Kubernetes**, and **Linux**. My mission is to help businesses innovate faster with modern DevOps strategies and cloud-native architectures.
+I'm a seasoned **DevOps Engineer** with 14 years of experience in building scalable, secure, and automated infrastructure using **Azure**, **Kubernetes**, and **Linux**. My mission is to help businesses innovate faster with modern DevOps strategies and cloud-native architectures.
 
 ---
 
@@ -18,7 +18,8 @@ I'm a seasoned **DevOps Consultant** with 13+ years of experience in building sc
 - 🐳 **Containers & Orchestration** – Kubernetes | Docker | Helm | AKS  
 - 📈 **Monitoring & Logging** – Prometheus | Grafana | OpenSearch  
 - 🔐 **DevSecOps** – SonarCloud | BlackDuck | Trivy | Checkov | Azure Firewall  
-- 📜 **Infrastructure as Code** – Terraform | Ansible  
+- 📜 **Infrastructure as Code** – Terraform | Ansible
+-    **Progamming Language** - Python
 - 🐧 **Linux Expertise** – RHEL, Ubuntu, CentOS | Shell Scripting | System Hardening  
 
 ---
@@ -33,17 +34,19 @@ I'm a seasoned **DevOps Consultant** with 13+ years of experience in building sc
 
 ## 📜 Certifications
 
+- 🎓 Cybersecurity Architect Expert
 - 🎓 Azure Solutions Architect Expert  
-- 🎓 DevOps Engineer Expert  
-- 🎓 Azure Developer Associate  
+- 🎓 DevOps Engineer Expert
+- 🎓 Security Operations Analyst Associate
+- 🎓 Azure Developer Associate
+- 🎓 Azure Administration Associate
 - 🎓 Azure Fundamentals
 
 ---
 
 ## 🌍 Open To
 
-💼 Remote / Hybrid / On-site (with relocation)  
-📍 Europe | Canada | UAE | Singapore | Australia  
+💼 Remote   
 
 ---
 
